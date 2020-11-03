@@ -7,4 +7,5 @@ Click the mouse to play chess, black and white automatically switch
 
 When one color chess 5 in row, is win!
 
-Click on the "Environment" button on the left side to start the program
+Live Demo
+  Please click link: https://lesleywuuuu.github.io/Project_JSgame/
